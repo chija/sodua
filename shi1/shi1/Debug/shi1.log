@@ -1,0 +1,8 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  stdafx.cpp
+cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  sodu_creat.cpp
+  main.cpp
+  resort.cpp
+  正在生成代码...
+  shi1.vcxproj -> G:\程序\shi1\Debug\shi1.exe
